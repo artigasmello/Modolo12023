@@ -1,0 +1,134 @@
+<mxfile host="app.diagrams.net" modified="2023-04-12T00:59:05.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="sYUm-BLlGudIhXaVJqk1" version="21.1.5" type="device">
+  <diagram name="Página-1" id="odxKzvR8wOb6aP_39RKs">
+    <mxGraphModel dx="749" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P3bVM68twCXlB0jyT_34-4" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Ejercicio 4 - Variables&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Declarar variables (N, A , C, ASCII)&lt;/li&gt;&lt;li&gt;Operación suma y resta&lt;/li&gt;&lt;li&gt;Asignar valores a variables (N, A, C)&lt;/li&gt;&lt;li&gt;Asociar&amp;nbsp; variable ASCII a variable C&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="80" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-6" value="&lt;b&gt;IMPRIMIR&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-7" value="&lt;ul&gt;&lt;li&gt;Variables (N, A, C)&lt;/li&gt;&lt;li&gt;Operación suma y resultado&lt;/li&gt;&lt;li&gt;Operación resta y resultado&lt;/li&gt;&lt;li&gt;Valor numérico de C&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="240" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-8" value="&lt;b&gt;FIN&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-9" value="&lt;b&gt;INICIO&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P3bVM68twCXlB0jyT_34-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-11" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="414" y="70" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P3bVM68twCXlB0jyT_34-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-14" value="Declarar variables N, A, C, ASCII" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="396" y="200" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P3bVM68twCXlB0jyT_34-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-16" value="Declarar Variables suma y resta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="406" y="300" width="196" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P3bVM68twCXlB0jyT_34-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-17" value="Asignar valor a variables N, A y C" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="406" y="390" width="196" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P3bVM68twCXlB0jyT_34-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="504" y="560" />
+              <mxPoint x="504" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-22" value="Asociar Variable ASCII a C" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="386" y="490" width="236" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="800" as="targetPoint" />
+            <mxPoint x="504" y="760" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P3bVM68twCXlB0jyT_34-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-28" value="Asignar valor a variable suma con Operación suma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="394" y="570" width="220" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P3bVM68twCXlB0jyT_34-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-31" value="Asignar valor a variable resta con Operación resta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="394" y="650" width="220" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="830" as="sourcePoint" />
+            <mxPoint x="504.0999999999999" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="504" y="840" />
+              <mxPoint x="504" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504.0999999999999" y="900" as="sourcePoint" />
+            <mxPoint x="504" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="503.9949999999999" y="1010" as="targetPoint" />
+            <mxPoint x="503.9949999999999" y="960" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-40" value="FIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="414.75" y="1010" width="184" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P3bVM68twCXlB0jyT_34-41" value="&lt;b&gt;&lt;i&gt;Artigas Mello&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1060" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zzt67ELc5dTyRqtLfbbZ-1" value="Valor variables N, A , C" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="404.13" y="730" width="205.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zzt67ELc5dTyRqtLfbbZ-3" value="Operación suma y resultado" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="401.37" y="800" width="205.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zzt67ELc5dTyRqtLfbbZ-5" value="Operación resta y resultado" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="404.13" y="870" width="205.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zzt67ELc5dTyRqtLfbbZ-7" value="Valor numérico de C" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="404.13" y="930" width="205.25" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
